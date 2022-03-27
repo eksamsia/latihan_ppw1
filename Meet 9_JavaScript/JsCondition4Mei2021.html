@@ -1,0 +1,22 @@
+<! DOCTYPE html>
+<html>
+  <head>
+    <title>Games Compare me!</title>
+  </head>
+  <body>
+    <script>
+      var nilai1 = prompt('ketik 10 atau 100 sebagai nilai pertama !', 0);
+      var nilai2 = prompt('ketikkan lagi sebagai nilai kedua !', 0);
+
+      if (nilai1 == 100) {
+        if (nilai2 == 10) {
+          document.write('<p> Nilai pertama (' + nilai1 + '), lebih besar dari (' + nilai2 + ')</p>');
+        } else if (nilai1 == 10) {
+          if (nilai2 == 100) {
+            document.write('<p> Nilai Kedua (' + nilai2 + '), lebih besar dari (' + nilai1 + ')</p>');
+          }
+        }
+      }
+    </script>
+  </body>
+</html>

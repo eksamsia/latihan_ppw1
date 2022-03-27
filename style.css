@@ -1,0 +1,59 @@
+body {
+  background-color: #e5e5e5;
+}
+.meta-post {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.header header {
+  background-color: #fff;
+  padding: 10px 20px;
+}
+nav.menus {
+  background-color: #e74c3c;
+  padding: 10px;
+}
+nav.menus u1 {
+  margin: 0;
+  padding: 0;
+}
+nav.menus u1 l1 {
+  display: inline-block;
+}
+nav.menus u1 l1 a {
+  display: block;
+  padding: 3px 7px;
+  color: #fff;
+}
+nav.menus u1 l1 a: hover, nav.menus u1 l1 a:focus {
+  text-decoration: none;
+  background-color: #c0392b;
+  color: #fff;
+}
+article.posts {
+  padding: 10px 20px;
+  background-color: #fff;
+  margin-top: 20px;
+}
+aside.widgets {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #fff;
+}
+aside.widgets u1 {
+  margin: 0;
+  padding: 0;
+}
+aside.widgets l1 {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.widget-little {
+  border-bottom: 4px solid #e74c3c;
+  padding-bottom: 4px;
+}
+.footer.copyright {
+  padding: 10px 20px;
+  font-size: 12px;
+}

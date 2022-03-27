@@ -1,0 +1,10 @@
+1. Tulis code yg berisikan javascript berisikan prompt() 
+meminta input 2 bilangan. Kemudian buat cek kondisi kedua bilangan 
+tersebut. Tampilkan hasilnya.
+EX:  BILANGAN KE-1 LEBIH BESAR DARI BILANGAN KE-2
+2. Tulis code yg berisikan javascript menanyakan apakah anda ikut
+praktikum PPW1?, jika iya ditanya Nama, NIM, dan Angkatan. 
+Lalu tampilkan hasilnya dalam tabel (menggunakan bootstrap),
+ jika tidak tampil tulisan “Anda bukan praktikan PPW1, anda tidak
+  boleh masuk!”.
+3. Kalkulator sederhana,  mekanisme kalkulatornya sesuai kreasi anda.
